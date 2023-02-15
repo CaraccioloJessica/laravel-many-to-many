@@ -1,1 +1,1 @@
-<h2 class="text-center">Header</h2>
+<h2 class="text-center">E-COMMERCE</h2>
